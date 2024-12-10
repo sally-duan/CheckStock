@@ -1,0 +1,23 @@
+{
+  "name": "SallyStockFun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stock.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express-handlebars": "^8.0.1"
+  }
+}
